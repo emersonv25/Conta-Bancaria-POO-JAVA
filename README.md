@@ -3,6 +3,16 @@
  * Avaliação da materia de POO 2020.1 
  * Um simples sistemas que simula contas bancarias e transações com três diferentes tipos de contas e salva essas informações em um arquivo simulando um banco de dados, escrito em JAVA e utilizando Programação Orientada a Objetos.
 
+# Funções
+* Três diferentes tipo de contas bancaria, Normal, Poupança e Especial
+* 1 => Cadastrar Contas
+* 2 => Listar Contas
+* 3 => Excluir Contas
+* 4 => Efetuar Depósitos
+* 5 => Efetuar Saques
+* 6 => Consultar Conta
+* 7 => Efetuar transferência entre contas
+* 8 => Creditar Rendimento
  
  # Author
  
